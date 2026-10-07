@@ -1,0 +1,12 @@
+# Dependencies and virtual environments
+node_modules/
+.venv/
+venv/
+
+# Build output
+.next/
+dist/
+build/
+
+# graphify's own output
+graphify-out/
